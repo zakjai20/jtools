@@ -15,5 +15,14 @@
   "license": "MIT",
   "dependencies": {
     "jrandom": "^1.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zakjai20/jtools.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zakjai20/jtools/issues"
+  },
+  "homepage": "https://github.com/zakjai20/jtools#readme"
 }
