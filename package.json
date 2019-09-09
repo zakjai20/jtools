@@ -1,0 +1,19 @@
+{
+  "name": "jtools",
+  "version": "1.0.0",
+  "description": "helper tools for random things and parse url and genereit id's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tools",
+    "random",
+    "id"
+  ],
+  "author": "JZ",
+  "license": "MIT",
+  "dependencies": {
+    "jrandom": "^1.0.0"
+  }
+}
